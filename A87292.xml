@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevvs out of Spaine ofinfinite [sic] concernment to England in tvvo letters from Mr. Brian I:Anson, a sonne of the Church in Spaine, to his father Sr Brian I:Anson and brother D. Hen. I:Anson of the Church of Rome in England, both now in the Kings army, there to promote the rightes and liberties of the same holy church. Published, thereby to give clearer intimation to all the inhabitants of England ...</title>
+            <author>I'Anson, Brian.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87292</idno>
+            <idno type="STC">Wing I27</idno>
+            <idno type="STC">Thomason E6_20</idno>
+            <idno type="STC">ESTC R5393</idno>
+            <idno type="EEBO-CITATION">99872844</idno>
+            <idno type="PROQUEST">99872844</idno>
+            <idno type="VID">154720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevvs out of Spaine ofinfinite [sic] concernment to England in tvvo letters from Mr. Brian I:Anson, a sonne of the Church in Spaine, to his father Sr Brian I:Anson and brother D. Hen. I:Anson of the Church of Rome in England, both now in the Kings army, there to promote the rightes and liberties of the same holy church. Published, thereby to give clearer intimation to all the inhabitants of England ...</title>
+                  <author>I'Anson, Brian.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Miller in the yeare,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Items discussed: "1. What that church is, and the sons thereof? 2. What is the but and white there, whereto the papists hands, heads, and hearts stand ready bent now? 3. What their religion is, what their devotions are? for know one papist, and know all, the mind of all papists is seene, clearely read and understood by the mind of one.".</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Aug. 16.".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154720:1" rendition="simple:additions"/>
+            <p>NEVVES OVT OF SPAINE Of infinite concernment to ENGLAND, IN TWO LETTERS From M<hi rend="sup">r</hi> 
+               <hi>Brian I:anſon</hi> a ſonne of the Church in <hi>Spaine,</hi> to his father S<hi rend="sup">r</hi> BRIAN I:ANSON, and brother D.HEN. I:ANSON of the Church of ROME in <hi>England,</hi> both now in the Kings Army, there to promote the Rightes and Liberties of the ſame Holy Church.</p>
+            <p>Publiſhed, thereby to give clearer intimation to all the Inhabitants of <hi>England,</hi>
+               <list>
+                  <item>1. <hi>What that Church is, and the ſons thereof?</hi>
+                  </item>
+                  <item>2. <hi>What is the</hi> But <hi>and</hi> White <hi>there, whereto the Papiſts hands, heads, and hearts ſtand ready bent now?</hi>
+                  </item>
+                  <item>3. <hi>What their Religion is, what their devotions are? for know one Papiſt, and know all: The mind of all Papiſts is ſeene, clearely read and underſtood by the mind of one.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I Have peruſed theſe two Letters from a ſon in <hi>Spaine</hi> to a Father and bro<g ref="char:EOLhyphen"/>ther in <hi>England.</hi> I find them of publike concernment, as the Publiſher of them hath amply, and uſefully ſhewed; beſides, A divine Providence hath ap<g ref="char:EOLhyphen"/>pointed it ſo; Therefore I cannot but affixe unto theſe Letters, and the Pub<g ref="char:EOLhyphen"/>liſhers Obſervations my <hi>Imprimatur, Ia. Cranford.</hi>
+               <hi>Aug.</hi> 12.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Miller</hi> in the yeare 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154720:2"/>
+            <div type="introduction">
+               <head>The Publiſher of theſe Letters, beſpeaketh the Reader, and greets him in theſe words.</head>
+               <p>
+                  <seg rend="decorInit">V</seg>Nderſtand, Good Reader, That theſe Letters were caught<g ref="char:EOLhyphen"/>up by the way betwixt <hi>Calize</hi> in <hi>Spaine,</hi> and <hi>Briſtoll</hi> in <hi>England:</hi> then ſent unto me by a pretious and ho<g ref="char:EOLhyphen"/>nourable Friend, a Miniſter<note n="a" place="margin">
+                     <hi>M.</hi> Will. Ad<g ref="char:EOLhyphen"/>dert<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</note> in the Ship, wherein he has a Captaine like himſelfe, one, I hope, that <hi>feares GOD above many</hi>
+                  <note n="b" place="margin">
+                     <hi>Captaine</hi> Rob. Moulion.</note>. I received theſe with this injun<g ref="char:EOLhyphen"/>ction, To make them publique and as uſefull as I could. By <hi>Gods</hi> helpe I will endeavour it; Becauſe God commands it ſo, To learne wiſedome from the unjuſt; and in imitation of my pretious Friend, whom <hi>God</hi> hath taught this Art, <hi>To turne poyſon into an Antidote.</hi> It is eaſily learnt, when God will reach it; and very Nature ſhall helpe us here, for <hi>the greateſt Balſomes doe lye enveloped in the Bodyes of powerfull Corriſives: And poyſons,</hi> as a great Phyſitian ſayes, <hi>containe within themſelves their own Antidote.</hi> In the head of a Toad, ſome tell us, is a pretious ſtone: but who found it there, I cannot tell. This I can tell, That it is our wiſedome, and it ſhould be our worke, To gain inſtruction from every thing. Now Reader, this muſt be the worke at this time; whereunto I will be as helpe<g ref="char:EOLhyphen"/>full unto thee as I can, That thou maiſt informe thy judgement, and under<g ref="char:EOLhyphen"/>ſtanding from theſe Letters, touching grave and weighty queſtions; and be able to give ſhort but cleare reſolutions thereunto. Then thou ſhall ſee what uſe to make of all this in the cloſe.</p>
+               <p>For the informing of thy judgement, this is the firſt queſtion, Concerning the Church of <hi>Rome</hi> or of <hi>Spaine</hi> (both are one and the ſame.) <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Q.</hi> What Church is it? <hi>A.</hi> A malignant Church; <hi>waſting and deſtruction are in their paths:</hi> the <hi>wayes of peace they have not knowne.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>Q.</hi> What her ſons and daughters are? <hi>A.</hi> As their Mother alwayes hath been, and now is (but now more enraged then ever, like a ſhe-beare robbed of her wheſpes) mad upon their idols evermore, and now <hi>mad</hi> with rage, and drunke with the bloud of Gods faithfull ones.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Q.</hi> How doe their hands, and heads, and hearts ſtand bent now? <hi>A.</hi> To deſtroy a Mother Church in <hi>England;</hi> nay, all over the world.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>Q.</hi> What is their Religion? <hi>A.</hi> More brutiſh then the Pagans is now adayes; They have many petty-gods, but I doe not know, That they have one Goddeſſe among them all.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+                  <hi>Q.</hi> Who is the father of their Religion? <hi>A.</hi> The Pope.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                  <hi>Q.</hi> Who their God-father? <hi>A</hi> The ſtocke, when they have laviſhed gold upon it; he <hi>undertakes</hi> for them ſure as their ſurety, for to it they bow, we ſee; and <hi>aske bleſſing,</hi> I thinke.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+                  <hi>Qu.</hi> Whom doe they conceive is the hearer of Prayers; and giver of all Bleſſings? <hi>A.</hi> Queen <hi>Mary,</hi> the Queen of Heaven.</p>
+               <pb n="3" facs="tcp:154720:2"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> 
+                  <hi>Q.</hi> What is the ſcope of their devout Prayers? <hi>A.</hi> It is double, from a double eye, and a cloven heart:
+<list>
+                     <item>1. That they may riſe at Court, grow rich, great and high in the world.</item>
+                     <item>2. And, that their Countrey may fall into ruines: And Gods Servants all into their owne bloud, and wallow therein: ſo they pray.</item>
+                  </list>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> 
+                  <hi>Q.</hi> By what meanes will they compaſſe all this? <hi>A.</hi> By the mediation of the Queen of the earth; and by the ſole interceſſion of the Queen of Heaven; into whoſe hands the matter is referred; for the tranſacts all their affaires in Heaven and earth.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+                  <hi>Q.</hi> What way doe they take for the effecting of all this? <hi>A.</hi> The old path, the path of the Deſtroyer, wherein they have ſtood theſe 1000. yeares up to the knees in bloud; where you muſt note all along, That they make lies their refuge too; under falſhood they will hide themſelves, horrible lies they will tell for <hi>advantage,</hi> ſo to promote their ſuit with the Queen on earth, and Queen in heaven.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+                  <hi>Q.</hi> Who are the moſt bloudy and implacable enemies to our Church and Kingdome? <hi>A.</hi> They that were <hi>friends</hi> once, and are <hi>Apoſtates</hi> now; who had the forme of Godlineſſe only, and cared for no more; Theſe are the moſt implacable adverſaries againſt God and good men, as <hi>it is at this day;</hi> where we ſhould note, That the moſt horrible impieties, iniquities, outrages, all theſe will ſtand with the forme of Godlineſſe, as is moſt legible, 2 <hi>Tim.</hi> 3. from the firſt verſe to the 6.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> 
+                  <hi>Q.</hi> What counſell give they to their Prince? <hi>A</hi> The very ſame which <hi>Atha<g ref="char:EOLhyphen"/>liab</hi> gave to her ſon <hi>Abaziah; To doe wickedly,</hi> ſo to haſten the deſtruction of his owne houſe, and of his Kingdome, whereby it appeares, That their Lord and maſter has the worſt ſervants of any lord in the world, for their work is, To make themſelves miſerable, and their Lord, as he was, whom <hi>Seracides</hi> cals the <hi>fooliſhneſse</hi> or <hi>ſhame of the people.</hi>
+                  <note place="margin">
+                     <hi>Eccleſ.</hi> 47.23.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> 
+                  <hi>Q.</hi> What ſubjects are they? <hi>A.</hi> The Devill hath no better in the world, no more right-handed men; or, to ſpeake in two words, as he doth, KINGS-MEN, ſaith he, DIVELS-MEN, ſay I, for they will ſpend their bloud for their King, ſo be he will hath his ſword <hi>in Heaven</hi> (The true Church) make it drunke with the bloud of Gods pretious ones. Now, Reader, proceed to the Letters, and hear what the man ſaith, when thou haſt ſo done, thou ſhalt thereby ſee, That the Queſtions and Anſwers before cited, are all the reſult from the Letters, and having obſerved that, thou ſhalt heare more from me.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>☜ <hi>IHS.</hi> Cadize, <date>the 12. of <hi>April,</hi> 1644.</date>
+                  </dateline>
+                  <salute>Deare Father,</salute>
+               </opener>
+               <p>MY laſt unto you was about a moneth paſt by a <hi>Briſtow</hi> ſhip under covert of me to Colonell <hi>Collon,</hi> which I hope is come in ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ety to your hands, where<g ref="char:EOLhyphen"/>in I adviſed you of the receit of three from you, and one from my brother <hi>Henry.</hi> I could not then procure, &amp;c. I ſent it (meaning his Tobacco) to Colonell <hi>Co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n,</hi> deſiriar, him to ſend unto Oxford by the firſt ſafe conveyance. The joy I re<g ref="char:EOLhyphen"/>ceived by yours to beare of his Majeſties proſperous and victorious proceedings, was not greater then the ſorrow and griefe received ſince (although I doe not be<g ref="char:EOLhyphen"/>leeve
+<pb n="4" facs="tcp:154720:3"/>one word that they ſay, being all or the moſt part of our nation that live here moſt damnable traitors and rebels) they have reported that the <hi>Scots</hi> have taken New-caſtle, and Yorke, and are maſters of the North; that my Lord of New-caſtle is retired to Oxford, that Sr <hi>William Waller</hi> hath given my Lord <hi>Hopton</hi> a great overthrow, and beat him into Salisbury; and that this Summer they will pluck the Crowne from his Majeſties browes, which God defend. I admire that his Majeſtie doth not prevaile with the King of Spaine, to ſeiſe upon all theſe ac<g ref="char:EOLhyphen"/>curſed Rebels eſtates and ſhips. He undertake that if the King of England could procure ſo much favour of his brother the King of Spaine this next vintage (for that is the beſt time to ſeize upon all ſuch ſhips and eſtates as doe belong to any Rebels,) he might thereby furniſh himſelfe with a brave fleet, and mony to ſet it out. I would I were in Commiſſion againſt them, firſt to ſhew my zeale and great deſire to ſerve my Sovereigne, and ſecondly, to chaſtiſe ſuch baſe ill-borne villaines that dare open their mouthes, and much more take up armes againſt their naturall King, and ſo good and vertuous a Prince, and that hath ſo many yeares protected them in ſuch great prosperity, but this is my paſſion and folly to give counſell to them that are able to give it to the whole <g ref="char:V">Ʋ</g>niverſe, &amp; ſince it hath been my ill for<g ref="char:EOLhyphen"/>tune not to ſerve him with my bloud, I have &amp; ſtill ſhal aſſiſt him with my prayers.</p>
+               <p>I adviſed you in my laſt Letters of the ſmall hopes of gaine, and the great ad<g ref="char:EOLhyphen"/>venture and perill of the trade to <hi>Briſtow</hi> in wines, I have a far better trade here to the Indies, and hope thereby to raiſe my ſelfe to an eſtate; I wrot you like<g ref="char:EOLhyphen"/>wiſe in my laſt giving you light of a way to raiſe me to great preferment and ho<g ref="char:EOLhyphen"/>nour in this Countrey, which I truſt, if you received my Letter, you have put in execution. I hope there will be no delay in a buſineſſe of ſo great importance, and where there will be no other expence, but of time and ſolicitude. The buſineſſe is this, That you and my brother <hi>Henry</hi> uſe all diligence by friends and favour <hi>[and lying]</hi> to procure from the Queene of England a Letter of favour to her ſiſter the Queene of Spaine in this manner. That <hi>Don Briano I:anſon</hi> the bearer of this, is ſon to a noble Gentleman, and ſervant of hers, who by reaſon of the great perſecu<g ref="char:EOLhyphen"/>tions in England of the Romane Catholiques <hi>[an horrible untruth]</hi> travailed in<g ref="char:EOLhyphen"/>to Spaine, and there married a Gentlewoman naturall in Cadiz. And that all his parents and kindred have, and ſtill doe preſerve themſelves in the Catholique faith: <hi>[An horrible lie, and more horrible it is, becauſe he belies the dead, his owne deare Mother in the grave; he knowes, and all that knew her, That ſhe deteſted Popery, and died a faithfull ſervant of the Lord Jeſus Chriſt: And for his Father, and Brother, they were Proteſtants too (at large) and ſo they would be accounted ſtill. They never turned themſelves to the Church of Rome; till the King turned his hand and ſword there, againſt the Church of England. And for his Uncle M. John J:anſon, his Fathers eldeſt Brother, he ab<g ref="char:EOLhyphen"/>horreth Poperie, and deteſteth his brothers and Nephewes wayes. And there<g ref="char:EOLhyphen"/>fore the younger Brother, the Knight, hath begged the lands of his eldeſt Bro<g ref="char:EOLhyphen"/>ther the Gentleman, as I am informed, And the King hath given all his Right to him againſt law. But M. John J:anſon, holdeth his Right ſtill by the Te<g ref="char:EOLhyphen"/>nour of the law, and that is a ſtrong hold. But this is enough to informe all, that will be informed, The manner of Papiſts, they will blaſpheme their dea<g ref="char:EOLhyphen"/>reſt friends for advantage; and to promote their Catholique Faith;]</hi> In conclu<g ref="char:EOLhyphen"/>ſion, deſire the Queen her ſiſter to favour me as a ſervant of hers, and that I being
+<pb n="5" facs="tcp:154720:3"/>a younger brother have but ſmall meanes, and in that regard deſire ber Majeſtie of Spaine firſt to honour me with a habit without any coſts or charges (which are great) and ſecondly to beſtow ſome office upon me, whereby to maintaine my ſelfe, and I make no queſtion but by this meanes to raiſe my ſelfe to good preferment. Let the Letter be ſent directly to me ly ſome good ſhip, and if you can conveniently procure a Letter from my Lord <hi>Hopton,</hi> to his brother my Lord Embaſſadour in Madrid<note n="d" place="margin">Obſerve: we have an <hi>Hopton</hi> in <hi>Spaine</hi> ſoliciting the cauſe there, as well as an <hi>Hopton</hi> in <hi>England</hi> figh<g ref="char:EOLhyphen"/>ting here; True Spaniſh both.</note> to favour and aſsiſt me to his power upon any occaſion, it would not doe amiſſe: but the chiefe matter is Her Majeſties Letter, which being penn'd in the manner that I have adviſed will queſtionleſſe ſtand me in great ſtead. I hope that my former Letter came to your hands, and that you have put in action this my deſire, and that with all brevitie I ſhall heare from you as alſo of the health of all my brothers and Siſters, for whom with your ſelfe, my prayers ſhall never be wanting. So at preſent I commit you to God; and reſt</p>
+               <closer>
+                  <signed>Your obedient and dutifull ſon, BRIAN I:ANSON.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <dateline>☜ <hi>IHS.</hi> Cadiz <date>the 12. <hi>April,</hi> 1644.</date>
+                  </dateline>
+                  <salute>Deareſt Brother;</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Wrote to you by the way of <hi>Briſtow</hi> about a moneth paſt, which I truſt you have received, becauſe it doth very much import mee, which if you received, I make no queſtion but you have with my Father put in action the procuring of the Queenes Letters of favour in my behalfe to the Queene of <hi>Spaine</hi> her ſiſter, that thereby I may raiſe our Name in this Country to honour and meanes: for unleſſe I may freely enjoy the Roman Catholique Religion without any danger of my per<g ref="char:EOLhyphen"/>ſon or eſtate, there is no reaſon I ſhould leave a place where I enjoy liberty of conſcience and live in very good eſteeme. But I make no queſtion, but after the King hath ſubdued his rebels, be will at leaſt give freedome of conſcience to the Roman Catholiques that maintaine the Religion of all our Anceſtors, as well as he doth and hath done to ſo many ſorts and Sects as are this day in <hi>England,</hi> brought up and invented by particular moderne and light-pated Apoſtates: But I truſt in God that theſe warres will redound to his honour, and to the<note n="*" place="margin">Obſerve with all obſervation what the Papiſts now ſo furiouſly drive af<g ref="char:EOLhyphen"/>ter, <hi>The Setling,</hi> &amp;c. I had enlar<g ref="char:EOLhyphen"/>ged upon their <hi>Truſt,</hi> and ſet the Churches <hi>Trust</hi> againſt it, but there was no place for it.</note> ſetting once againe of the true Catholique and Apoſtolique faith in that bleſſed Country, that deſerved (for the great devotion of the inhabitants once to the Mother of God) the name of the Dowry of the bleſſed Virgin, Queene of Angels; and I truſt in God to be an eye witneſſe of ſo great a bleſſing, and to lay my bones in my native Country; however and in the meane time it is very convenient to procure honour and preferment in this Country<note n="a" place="margin">He would lay downe his body here, but he would be raiſed in <hi>Spaine</hi> firſt. You well obſerve who rules the Scepter in <hi>Spaine.</hi>
+                  </note>, which I find no other way of poſſibility, but this that I have formerly adviſed my Father and your ſelfe, and now againe doe deſire, which is the procuring of her Majeſties Letters of favour to her ſiſter the Queene of <hi>Spaine,</hi> WHO GOVERNS <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ERE MORE THEN THE KING. Let the Letter be to this effect, but better indited; <hi>Don Briano I:anſon</hi> the bearer hereof, is the ſon of a noble Gentleman and ſervant of her Majeſties; who by reaſon of the perſecution of the Roman Catholiques in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and being a younger brother, with ſmall hopes of any eſtate, travelled into <hi>Spaine,</hi> where he married a Gentlewoman naturall of <hi>Cadiz;</hi> and that all my Parents, Kindred and Allies, have and ſtill doe continue firme Roman Catholiques,
+<pb n="6" facs="tcp:154720:4"/>and that they have ſuffered much in their temporall eſtates only for the main<g ref="char:EOLhyphen"/>tenance of the Catholique faith: This point I pray let it be amply ſet downe, for it will much import me in my pretences<note n="b" place="margin">Obſerve how be would have his lie enlarged and inſiſted upon for advantage.</note>, and that in this regard her Catholike Majeſty (for that is her Title) will be pleaſed for her Majeſties of <hi>Great Brit<g ref="char:EOLhyphen"/>taines</hi> ſake, to take notice of me and honour me with an habit of Calatrana or Alcantra, without coſts and charges (which are great, and my ability weake,) and that her Majeſty would beſtow upon me ſome Office, either in Court or elſewhere, aſſuring her Majeſty that I ſhall alwayes a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>compliſh my obligation, for the which her Majeſty of <hi>England</hi> doth pause her royall word; ſend the Letter with all poſſible ſecurity to my hands in <hi>Cadiz,</hi> and from hence I will goe to <hi>Madrid,</hi> and I commit the ſucceſse of this, and alſo of all other matters touching me or mine, to the advocation of the bleſſed Virgin <hi>Mary,</hi> Queene of Angels and mother of God, of whom<note n="c" place="margin">When you have read this then reade 2 <hi>Theſ.</hi> 2.11, 12.</note> I am confident ſhe will deſire the good ſucceſſe of theſe my endeavours, if theſe may redound to the honour of God and ſalvation of my ſoule, and to whoſe bleſsed advocation I doe likewiſe <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>y commend my Father, your ſelfe, and all the reſt of my brothers, and ſiſters, and friends, and the whole Kingdome in ge<g ref="char:EOLhyphen"/>nerall, beſeeching her Majeſty that as ſhe is the FO<g ref="char:V">Ʋ</g>NTAINE of GRACE, as we are aſſured by the ſalutation of the Angell, <hi>Ave Maria gr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a plena, do<g ref="char:EOLhyphen"/>minus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, benedicta tu in mulie<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us, &amp; benedictus tructus ventris tui Jeſus;</hi> ſo ſhe will be pleaſed to communicate to me and all my kindred in par<g ref="char:EOLhyphen"/>ticular, part of that grace, that thereby we may attaine to glory. Good Bro<g ref="char:EOLhyphen"/>ther forget not to write to me by all conveyances, adviſing me of the happy procee<g ref="char:EOLhyphen"/>dings of the King, for I muſt confeſſe I would not willingly ſo much as heare any thing to the contrary, although it be falſe; and pray uſe your friends and endeavours for the procuring of this Letter, for I truſt thereby to be raiſed, Mr <hi>Richard Archdale</hi> goeth now in this Fleete for <hi>London,</hi> and from thence he ſaith be will goe for <hi>Oxford,</hi> he is a true KINGS-MAN, and there are but very few in theſe parts, I would I had the tampering of them.</p>
+               <p>I have nothing elſe at preſent to advice you, only deſire you to be perſwaded, that there is nothing in this world more deare to me then the remembrance of you my deareſt brother; whom I pray God proſper in all your proceedings, and let me have the happineſſe to ſee you</p>
+               <closer>
+                  <signed>
+                     <hi>Your Brother and friend,</hi> 
+                     <g ref="char:cross">✚</g> 
+                     <hi>BRIAN J:ANSON.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <head>The Publiſher to the Reader.</head>
+               <p>NOw, Reader, I beleeve thou art perſwaded, that this man hath ſent over his heart unto us; for which we have little cauſe to thanke him, becauſe it was quite from the purpoſe of his heart ſo to doe, that we ſhould underſtand his affections towards us. But a Gratious Providence hath ſo diſpoſed it, that we doe underſtand his mind perfectly, and can raiſe all theſe queſtions fore<g ref="char:EOLhyphen"/>cited from his <hi>Text,</hi> and give Reſolution from thence thereunto; All which his own hand hath made legible. But thou mayeſt make ſome queſtion here, whether, knowing the heart of this man, how it ſtands bent, thou mayeſt make judgement, what is the mind of all the Papiſts in the world, in relation to
+<pb n="7" facs="tcp:154720:4"/>GOD, the LORD CHRIST, and the rights of his Kingdome? Whereunto I anſwer from the cleareſt grounds (which I have neither time nor place to ſet downe,) That, looke what way this man bends his tongue, his heart and his head, all the Papiſts in the world, at this day, ſtand, like a bowe, ſo bent; As face in water anſwers face, ſo doth the heart of one Papiſt anſwer another, They are all for the raiſing themſelves in the world; And for the caſting of the Church of God, and their rights and priviledges out of the world. All theſe bloudy characters are ſtampt: All theſe <hi>lines</hi> are drawne in the hearts of all the Papiſts in the world; from that <hi>Center</hi> they put forth into the <hi>Circum<g ref="char:EOLhyphen"/>ference</hi> of the whole Univerſe. There is the Anſwer for that. Now make ſome uſe of thy knowledge. Learne 1. Who is the fountaine of Grace in the Pa<g ref="char:EOLhyphen"/>piſts account? The Virgin <hi>Mary</hi> they ſay. An horrible blaſphemy. She is but a veſſel filled brim-full from that fountaine, the Lord Chriſt her Saviour. Therefore though this Papiſt has put up a prayer for his Country, regard it not, no more then his curſe; nor th' one nor th' other can doe any hurt, it is not in the hand of a mediatour. Be aſſured now, that their prayer is a curſe to themſelves: and their curſe is a bleſſing to us and our Land. 2. Thou haſt learnt, That the Lord Chriſt, bleſſed for ever, is the fountaine of grace; From Him is every good and perfect gift: Therefore renounce gifts, graces, duties, all; and let thy ſoule run-out all to that fountaine the Lord Chriſt, Him a<g ref="char:EOLhyphen"/>lone, and none with Him. 3. Thank <hi>God,</hi> that thou hadſt thy birth and breeding in a <hi>Land o'viſions.</hi> A mercy! Thou muſt thanke God for it; but it is no ſin<g ref="char:EOLhyphen"/>gular mercy: For the <hi>Scribe,</hi> who wrote theſe letters, was borne in the ſame Land, and had his breeding there in this very City; Yet he is what he is, and what he is thou underſtandeſt by his letters; Be thou thankfull for the place of thy habitation, and that thou art not, as he is. 4. Labour after the power of god<g ref="char:EOLhyphen"/>lineſſe, drink in the Principles of GODS <hi>Truth;</hi> Let them ſinke down into thine heart; they ſhine with their own light; pray to GOD to ſhine upon thine heart; to give thee an eye wherwith to ſee; and an care, wherwith to heare; both theſe are from the Lord. This man had <hi>Principles</hi> too (upon my knowledge) at his tongues end; they did not ſinke down: So had his brother; his Father alſo; theſe were well principled; they had the <hi>forme</hi> of godlineſſe, that they had; I know it, no man better: And for the firſt, the ſecond brother the Scribe, he went into <hi>Spaine</hi> becauſe of <hi>perſecution,</hi> ſaith he; an abominable lye ſay I; but after the manner; This is a truth, that thither he went; and there ſold his <hi>Birth-right,</hi> (I meane the true Religion, the Crown, and diadem of a perſon and people) this he ſold for a <hi>wiſe, he thought good of the price, and they gave him the price;</hi> like to that, which is meant, by <hi>Thirty pieces of ſilver.</hi>
+                  <note place="margin">Zech. 11.</note> And the Lord of glory tooke it ſo ill now, as once he did, becauſe He is dealt with ſo unworthily, ſo ingloriouſly, that he commanded now as once he did, <hi>caſt it to the potter;</hi> let him make earthen <hi>gods</hi> of it: And ſo God hath left him to his own hard<g ref="char:EOLhyphen"/>neſſe. It is ſo with the Father the Knight, and his eldeſt ſon the Doctor: They went for true Proteſtants, and held on their profeſſion, untill they went to the King, to ſerve him<g ref="char:punc">▪</g> And now, if we may beleeve the Letter, they are as the younger brother is, who hath the Pope for his Father, his Church for his Mother; The ſtock on earth, and the Queen of Heaven, for his Godfather, and Godmother, theſe muſt undertake for him; therefore he asketh the ſtock bleſ<g ref="char:EOLhyphen"/>ſing, worſhipping it: and he expects all good from the Queene of Heaven,
+<pb n="8" facs="tcp:154720:5"/>ſhe is his God-mother ſure. Therefore fifthly, Aske thy ſoule this queſtion, <hi>What love haſt thou to the Truth?</hi> A weake, faint, wateriſh <hi>love,</hi> God knowes: Looke to it, to ſtrengthen it, elſe it will never carry thee-up to the work of Chriſt, nor can it keepe thy heart cloſe to it, ſo as to fulfill all His <hi>wils</hi>
+                  <note n="b" place="margin">Acts 13.38. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>. This is an hot ſervice thou art engaged upon now, it will put thee to <hi>coſt:</hi> but if thy <hi>love</hi> be not ſtrong, as ſtrong as death, (and that overcommeth all) thou wilt never be at coſt about it. That thou mayeſt not faint in thy mind, Looke to that <hi>Affection,</hi> it is the great Centurion, the commander in the ſoule; Aske thy ſoule inrice over, <hi>Doeſt thou love Chriſt?</hi> And ceaſe not, till thou canſt in uprightneſſ<g ref="char:punc">▪</g> of neart, appeale unto Him as <hi>Peter</hi> did; <hi>LORD Thou knoweſt that I love Thee:</hi> Then certaine it is, nothing will be too hard to doe; nothing too much to ſuffer for Him; but if this be wanting, all is wanting. I knew the<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ne when the fore-mentioned, made profeſſion that they loved Chriſt; they did not; they hated Him; for remiſſe love is called hatred, and as it is called, ſo it is, and accounted: And now it is ſo with them; the wages of iniquity was tendered to their eye; they embraced it, and have blundered-on as <hi>Balaam</hi> did, againſt the drawne ſword, And ſo reade the judgement; they a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e delivered up to beleeve lies, and to a ſenſe reprobate; Let the <hi>Word</hi> of <hi>GOD,</hi> and then the <hi>love</hi> of God, dwell richly in you, <hi>Amen.</hi>
+               </p>
+               <p>In the laſt place, that it may be firſt and laſt remembred, I will put to thee and my own ſoule, theſe two queſtions, and let us labour to put both out of queſtion.</p>
+               <p n="1">1. Doe I put forth my ſelfe? does my ſoule run-out in as earneſt deſire and purſuit, to riſe in Gods favour, as the men of the world doe, to riſe in the fa<g ref="char:EOLhyphen"/>vour of the world? O let us labour to put this out of queſtion; And to help our conſideration, and that we may doe as afore-ſaid, let us compare favour with favour; preferment with preferment; the favour of a man, with the fa<g ref="char:EOLhyphen"/>vour of a God; preferment in the Court of Kings, with that in Heaven, to be there, as the <hi>Lord Chriſt</hi> is, in glory: And let us remember with-all, or elſe all is nothing,<note place="margin">2 Cor 59. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> that the favour of <hi>God,</hi> (that is) <hi>to be accepted of Him,</hi> is the greateſt preferment; But it muſt be laboured for with the ſame labour of love, as men have had, who have laboured after a Biſhoprick; or if you will, a Crowne of gold.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Clem. Al. Stro. 1.7. p. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>00.</note> A Crowne of Glory muſt be ſo laboured after: The Kingdome of God alſo ſuffers violence, and the violent take it by force; let us put this out of queſtion.</p>
+               <p n="2">2. Doe I put forth my ſelfe? am I as active for GOD, for CHRIST and His cauſe, as are the enemies of all Righteouſneſſe, active for Anti-chriſt, the promoting his cauſe? If we are but as active, it ſufficeth; And then our hands, heads, hearts will be all a work for God: only this we muſt not doe, not lie for God, not doe wickedly for God; we muſt doe as they doe, with the ſame activity of ſpirit, for <hi>CHRIST,</hi> as they for Anti-chriſt. We are for God, we muſt work as God doth, in our meaſure, holily, righteouſly, there is no un<g ref="char:EOLhyphen"/>righteouſneſſe in Him. Worke ſo, and worke on; Let head worke, and tongue worke, and hand worke, heart, ſoule and ſpirit worke, it is for our Maſter in Heaven, and His Cauſe, a good Maſter and as good a Cauſe, He will plenti<g ref="char:EOLhyphen"/>fully reward the work is done for Him, ſeven fold into our boſome. <hi>Therefore my beloved brethren, be ye ſtedfaſt, unmoveable, alwayes abounding in the works of the Lord, foraſmuch as you know that your labour is not in vaine in the Lord.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154720:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
